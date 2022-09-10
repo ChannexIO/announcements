@@ -1,8 +1,10 @@
-### August Update 🚀 (22nd Aug 2022)
+### September Update 🚀 (7th Sep 2022)
 
 #### Summary of Changes
-- Support for Booking quick connect
-- Improve UI loading time
+- Allow float as number of bathrooms for Google Hotel Ads
+- Added agent fields in Open Channel API
+- Hotelbeds channel we auto check for updated contract dates and sync
+- Added logic to update property geo-coordinates on create and update
 
 #### Coming Soon
 - Google Vacation Rental Channel (In Certification)
