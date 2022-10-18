@@ -1,21 +1,16 @@
-### October Update 🚀 (11th Oct 2022)
+### October Update 🚀 (18th Oct 2022)
 
 #### Summary of Changes
-- Rate limits to update availability per property
-- Added Channex Express content changed webhook
-- Live Feed now has 30 day retention period
-- Improved performance to delete rooms
-- Added UI to show Booking Deposits from supported channels
-- Removed Facebook login button
-- Removed Vertical Booking Integration
-- VRBO still in beta phase
+- Added MFA Support. When you login now you will get a code via email.
+- Added Tripla Channel
+- Improved Cleaning Fee UI for Airbnb pricing settings
+- Removed Vertical Booking Channel
+
 ### Bugfixes
-- Resolved problems with photo duplications on room and property
-- Fixed error to decrease adult occupancy on the Room Type
-- Fixed rate plan titles with the OpenShopping connection
-- Fixed problem with messages count update (Messages API)
+- Added Word Wrap for Channel Event logs
+
 #### Coming Soon
-- 2FA login requirement for all users. We will send code on login to confirm user
+- Any PMS not using API key will be blocked soon. Please move over to use API keys.
 - We will not provide CC data via API after booking is acknowledged
 - We will have a retention policy to delete bookings, channels and properties after certain amount of time
 
