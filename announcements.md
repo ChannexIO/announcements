@@ -1,12 +1,11 @@
-### October Update 🚀 (27th Oct 2022)
+### November Update 🚀 (10th Nov 2022)
 
 #### Summary of Changes
-- Show children ages at booking UI
-- Hide CreditCard info after Ack for API-Key users
-- Added retention policy for property, channels and bookings
-- Fixed children in the IBE
-- Trigger Full Sync to Google after tax changes
-- Improved room and rate UI in the mapping screen
+- Prevent webhook duplications
+- Improved speed to delete channel
+- New Channel: Mitchel Corp
+- Added log for mapping changes
+- Fixed occupancy options for VRBO mappings
 
 #### Coming Soon
 - Any PMS not using API key will be blocked soon. Please move over to use API keys.
