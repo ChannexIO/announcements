@@ -6,6 +6,7 @@
 - Added guest notes into Booking Notification Email
 - Add IP address and Geo location into Login Confirmation Email
 - Fixed bug with change password
+- New OTA: Dream Ireland
 
 #### Coming Soon
 - Any PMS not using API key will be blocked soon. Please move over to use API keys.
