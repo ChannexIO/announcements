@@ -1,15 +1,19 @@
-### November Update 🚀 (30th Nov 2022)
+### Xmas Notice
 
-#### Summary of Changes
-- Improve speed to remove a property
-- Added PCI Application to allow view credit card details in Channex
-- Added guest notes into Booking Notification Email
-- Add IP address and Geo location into Login Confirmation Email
-- Fixed bug with change password
-- New OTA: Dream Ireland
+We hope everyone will have a great Xmas and New Year!
 
-#### Coming Soon
-- Any PMS not using API key will be blocked soon. Please move over to use API keys.
-- Tiket.com channel coming soon
+There are no planned updates until mid January
+We will continue to support you throughout the holidays as usual
+
+We have lot's of plans for 2023 but if you want to make any requests please let us know
+You can add an idea to our ideas page here: https://feedback.channex.io/b/15m1xev6/feature-requests
+
+#### 2023 Plans
+- Connect more OTA in different regions
+- Promotion API support for selected OTA
+
+#### Depreciation Warning:
+- We will stop supporting API authentication with Username and password, PMS and partners should use API key
+- We will remove ARI support from Webhooks. If you require ARI updates from Channex then there are other methods, please contact us
 
 [Link to Changelog](https://docs.channex.io/changelog)
