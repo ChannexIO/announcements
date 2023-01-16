@@ -1,19 +1,15 @@
-### Xmas Notice
+### January Update 🚀 (16th Jan 2023)
 
-We hope everyone will have a great Xmas and New Year!
+#### Summary of Changes
+- Allow force remove for taxes
+- Added mapping logs for Airbnb
+- Airbnb Notifications support on livefeed
+- Added Campendium Channel
+- State Changes Report
+- Enable mapping on Hotelbeds channel after contract provided
 
-There are no planned updates until mid January
-We will continue to support you throughout the holidays as usual
-
-We have lot's of plans for 2023 but if you want to make any requests please let us know
-You can add an idea to our ideas page here: https://feedback.channex.io/b/15m1xev6/feature-requests
-
-#### 2023 Plans
-- Connect more OTA in different regions
-- Promotion API support for selected OTA
-
-#### Depreciation Warning:
-- We will stop supporting API authentication with Username and password, PMS and partners should use API key
-- We will remove ARI support from Webhooks. If you require ARI updates from Channex then there are other methods, please contact us
+#### Coming Soon
+- Any PMS not using API key will be blocked soon. Please move over to use API keys.
+- Tiket.com channel coming soon
 
 [Link to Changelog](https://docs.channex.io/changelog)
