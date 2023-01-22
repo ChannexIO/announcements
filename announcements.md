@@ -5,7 +5,7 @@
 - Added mapping logs for Airbnb
 - Airbnb Notifications support on livefeed
 - Added Campendium Channel
-- State Changes Report
+- State Changes Log https://docs.channex.io/application-documentation/change-log-feature
 - Enable mapping on Hotelbeds channel after contract provided
 
 #### Coming Soon
