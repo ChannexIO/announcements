@@ -1,6 +1,7 @@
 ### January Update 🚀 (16-23rd Jan 2023)
 
 #### Summary of Changes
+- Google Vacation Rentals is Live!
 - Updated review app interface
 - Simpliofied UI with taxes and policies on how to apply to rate plans
 - Aded protection to Airbnb and VRBO channel regarding deactivate
