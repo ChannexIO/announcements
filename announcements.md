@@ -1,12 +1,13 @@
-### January Update 🚀 (16th Jan 2023)
+### January Update 🚀 (16-23rd Jan 2023)
 
 #### Summary of Changes
-- Allow force remove for taxes
+- Updated review app interface
+- Simpliofied UI with taxes and policies on how to apply to rate plans
+- Aded protection to Airbnb and VRBO channel regarding deactivate
 - Added mapping logs for Airbnb
 - Airbnb Notifications support on livefeed
 - Added Campendium Channel
-- State Changes Log https://docs.channex.io/application-documentation/change-log-feature
-- Enable mapping on Hotelbeds channel after contract provided
+- State Changes Feature: https://docs.channex.io/application-documentation/change-log-feature
 
 #### Coming Soon
 - Any PMS not using API key will be blocked soon. Please move over to use API keys.
