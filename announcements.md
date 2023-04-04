@@ -1,13 +1,14 @@
-### Fab Update 🚀 (1-22nd Feb 2023)
+### April Update 🚀 (4th April 2023)
 
 #### Summary of Changes
-- Added support for spaces into room types (Not used in IBE yet)
-- New Channel: Google Vacation Rentals
-- New Channel: Tiket.com
-- Improved booking emails
+- New Channel: HRS (Germany)
+- New Channel: Feratel (Austria)
+- New Channel: MG Holiday (Asia)
+- New Channe: Omnihotelier Booking Engine
+- Added map image to confirmation email
 - State Changes Feature: https://docs.channex.io/application-documentation/change-log-feature
 
 #### Coming Soon
-- MG Holidays & HRS channel coming soon
+- Make My Trip OTA
 
 [Link to Changelog](https://docs.channex.io/changelog)
