@@ -6,9 +6,9 @@
 - New Channel: MG Holiday (Asia)
 - New Channe: Omnihotelier Booking Engine
 - Added map image to confirmation email
-- State Changes Feature: https://docs.channex.io/application-documentation/change-log-feature
 
 #### Coming Soon
 - Make My Trip OTA
+- View Roadmap: https://feedback.channex.io/roadmap
 
 [Link to Changelog](https://docs.channex.io/changelog)
