@@ -1,6 +1,7 @@
 ### April Update 🚀 (4th April 2023)
 
 #### Summary of Changes
+- NEW: Same Day Cut Off Feature
 - New Channel: HRS (Germany)
 - New Channel: Feratel (Austria)
 - New Channel: MG Holiday (Asia)
