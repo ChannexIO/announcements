@@ -2,6 +2,7 @@
 
 #### Summary of Changes
 - NEW: Same Day Cut Off Feature https://docs.channex.io/application-documentation/properties-and-groups-management#cut-off-time
+- New Channel: MakeMyTrip (India)
 - New Channel: HRS (Germany)
 - New Channel: Feratel (Austria)
 - New Channel: MG Holiday (Asia)
