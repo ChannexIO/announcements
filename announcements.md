@@ -2,6 +2,7 @@
 
 #### Summary of Changes
 - New: You can now sort the room order on the inventory page
+- Fixed mobile web view
 - Lots of small bug fixes and improvements
 
 #### Coming Soon
