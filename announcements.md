@@ -1,4 +1,4 @@
-### April Update 🚀 (8th May 2023)
+### May Update 🚀 (8th May 2023)
 
 #### Summary of Changes
 - New: You can now sort the room order on the inventory page
