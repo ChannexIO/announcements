@@ -10,6 +10,7 @@
 
 #### Coming Soon
 - TravelgateX
+- Hipcamp
 - View Roadmap: https://feedback.channex.io/roadmap
 
 [Link to Changelog](https://docs.channex.io/changelog)
