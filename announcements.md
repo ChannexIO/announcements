@@ -6,7 +6,7 @@
 - Added Booking Acknowledgement filter in Bookings page
 - Added Property field into the Bookings page
 - Improved Airbnb Inquiry representation in the UI
-- Add OTA Commission fields in API
+- Add OTA Commission fields in API and Guest Notes for Airbnb and Booking
 - Add is_expired field for Reviews in API
 #### Coming Soon
 - TravelgateX
