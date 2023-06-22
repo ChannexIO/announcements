@@ -3,6 +3,7 @@
 #### Summary of Changes
 - Added filters in channel logs
 - New OTA: Hipcamp
+- New App Connected: RateGenie (Revenue Management Ap for Vacation Rentals)
 
 #### Coming Soon
 - TravelgateX
