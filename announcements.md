@@ -4,7 +4,7 @@
 - Beta: We added support for rate plan in Airbnb
 - Added filters in channel logs
 - New OTA: Hipcamp
-- New App Connected: RateGenie (Revenue Management Ap for Vacation Rentals)
+- New App Connected: RateGenie (Revenue Management App for Vacation Rentals)
 
 #### Coming Soon
 - TravelgateX
