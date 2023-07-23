@@ -1,14 +1,14 @@
-### June Update 🚀 (22-26th June 2023)
+### July Update 🚀 (July 2023)
 
 #### Summary of Changes
-- Beta: We added support for rate plan in Airbnb
-- Added filters in channel logs
-- New OTA: Hipcamp
-- New App Connected: RateGenie (Revenue Management App for Vacation Rentals)
-- Full Sync will now remove any sync errors on that channel
+- New Channel: TravelgateX
+- Only billing account owners can create a new property
 
 #### Coming Soon
-- TravelgateX
+- PriceTravel
+- Hotel Network
+- PegiPegi
+- Bookeasy
 - View Roadmap: https://feedback.channex.io/roadmap
 
 [Link to Changelog](https://docs.channex.io/changelog)
