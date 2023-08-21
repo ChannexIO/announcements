@@ -1,12 +1,13 @@
-### July Update 🚀 (July 2023)
+### August Update 🚀 (August 2023)
 
 #### Summary of Changes
 - New Channel: TravelgateX
-- Only billing account owners can create a new property
+- New Channel: Hotel Network
+- New Channel: ETG / Ostravok
+- API updates to disallow editing rates with different room types
 
 #### Coming Soon
 - PriceTravel
-- Hotel Network
 - PegiPegi
 - Bookeasy
 - View Roadmap: https://feedback.channex.io/roadmap
