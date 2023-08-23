@@ -1,7 +1,7 @@
 ### August Update 🚀 (August 2023)
 
 #### Summary of Changes
-- Channel Currency Option, Now you can select the currency of the channel and map any rate plan. We will convert the priceautomatically for you if it is different.
+- Channel Currency Option, Now you can select the currency of the channel and map any rate plan. We will convert the currency automatically for you.
 - New Channel: TravelgateX
 - New Channel: Hotel Network
 - New Channel: ETG / Ostravok
