@@ -1,11 +1,9 @@
-### August Update 🚀 (August 2023)
+### September Update 🚀 (Sep 2023)
 
 #### Summary of Changes
-- Channel Currency Option, Now you can select the currency of the channel and map any rate plan. We will convert the currency automatically for you.
-- New Channel: TravelgateX
-- New Channel: Hotel Network
-- New Channel: ETG / Ostravok
-- API updates to disallow editing rates with different room types
+- New Cahnnel: Getaroom
+- Airbnb Rate Plans now supports Occupancy based Pricing
+- Improved Mapping logs to better show what was changed
 
 #### Coming Soon
 - PriceTravel
