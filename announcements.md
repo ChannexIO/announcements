@@ -1,7 +1,7 @@
 ### September Update 🚀 (Sep 2023)
 
 #### Summary of Changes
-- New Cahnnel: Getaroom
+- New Channel: Getaroom
 - Airbnb Rate Plans now supports Occupancy based Pricing
 - Improved Mapping logs to better show what was changed
 
