@@ -2,12 +2,13 @@
 
 #### Summary of Changes
 - New Channel: Getaroom
+- New Channel: PegiPegi
 - Airbnb Rate Plans now supports Occupancy based Pricing
+- Can now view and send iamges in Airbnb chat
 - Improved Mapping logs to better show what was changed
 
 #### Coming Soon
 - PriceTravel
-- PegiPegi
 - Bookeasy
 - View Roadmap: https://feedback.channex.io/roadmap
 
