@@ -4,7 +4,7 @@
 - New Channel: Getaroom
 - New Channel: PegiPegi
 - Airbnb Rate Plans now supports Occupancy based Pricing
-- Can now view and send iamges in Airbnb chat
+- Can now view and send images in Airbnb chat
 - Improved Mapping logs to better show what was changed
 
 #### Coming Soon
