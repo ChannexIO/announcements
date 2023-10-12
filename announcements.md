@@ -3,7 +3,7 @@
 #### Summary of Changes
 - New Channel: Getaroom
 - New Channel: PegiPegi
-- New Channel: Wink
+- New Channel: Wink.travel
 - Airbnb Rate Plans now supports Occupancy based Pricing
 - Can now view and send images in Airbnb chat
 - Improved Mapping logs to better show what was changed
