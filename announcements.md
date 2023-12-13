@@ -1,16 +1,17 @@
-### Sep-Oct Update 🚀 (Sep-Oct 2023)
+### Xmas Update 🚀 (Dec 2023)
+
+Merry Xmas! Big update to finish off the year.
 
 #### Summary of Changes
-- New Channel: Getaroom
-- New Channel: PegiPegi
-- New Channel: Wink.travel
-- New Channel: Szallas (Hungary)
-- New Channel: Bookeasy / Bookit (Aus/NZ)
-- Airbnb Rate Plans now supports Occupancy based Pricing
-- Can now view and send images in Airbnb chat
+- New Channel: Hopper (USA / Global)
+- New Channel: PriceTravel (Mexico)
+- New Channel: Reconline (GDS)
+- Added Booking Settings to Airbnb
+- Added Advanced OTA settings
+- Improved logs to save which user did some actions
+
 
 #### Coming Soon
-- PriceTravel
 - View Roadmap: https://feedback.channex.io/roadmap
 
 [Link to Changelog](https://docs.channex.io/changelog)
