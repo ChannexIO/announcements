@@ -3,8 +3,9 @@
 Merry Xmas! Big update to finish off the year.
 
 #### Summary of Changes
+- New Channel: RoomBeast (Latam)
 - New Channel: Hopper (USA / Global)
-- New Channel: PriceTravel (Mexico)
+- New Channel: PriceTravel (Latam)
 - New Channel: Reconline (GDS)
 - Added Booking Settings to Airbnb
 - Added Advanced OTA settings https://help.channex.io/en/articles/8703936-availability-rules
