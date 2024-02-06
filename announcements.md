@@ -1,12 +1,8 @@
-### New Year Update 🚀 (Jan 2024)
-
-Happy New Year! Hope business goes well for all of us this year. Just some small changes for now
+### February Update 🚀 (Feb 2024)
 
 #### Summary of Changes
-- We now will send you an email if a listing is unmapped from Airbnb side so you know it happened
-- We now auto edit rate plans occupancy if you change room type occupancy
-- Hostelworld setting option to save booking without commission
-
+- You can now control the default values for all restrictions by setting it in the rate plan settings. These default values are applied when the rate is created and when a new date is opened up each day.
+- Added a channel report, you can access fro mthe dashboard
 
 #### Coming Soon
 - View Roadmap: https://feedback.channex.io/roadmap
