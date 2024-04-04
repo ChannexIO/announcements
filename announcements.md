@@ -1,11 +1,12 @@
-### March Update 🚀 (Mar 2024)
+### April Update 🚀 (Apr 2024)
 
 #### Summary of Changes
-- New Channel: Roibos (Juniper)
-- New Channel: Bookoutdoors
-- New Channel: Hostel Hop
+- New Channel: Dida Travel
+- New Channel: Hoterip
+- Added Languages: German & Greek
 
 #### Coming Soon
+- HRS Australia
 - View Roadmap: https://feedback.channex.io/roadmap
 
 [Link to Changelog](https://docs.channex.io/changelog)
