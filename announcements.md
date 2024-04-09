@@ -4,6 +4,7 @@
 - New Channel: Dida Travel
 - New Channel: Hoterip
 - New Channel: HRS Australia
+- Added API for reporting no-show to Expedia
 - Added Languages: German & Greek
 
 #### Coming Soon
