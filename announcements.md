@@ -1,11 +1,12 @@
-### April Update 🚀 (Apr 2024)
+### June Update 🚀 (Jun 2024)
 
 #### Summary of Changes
-- New Channel: Dida Travel
-- New Channel: Hoterip
-- New Channel: HRS Australia
-- Added API for reporting no-show to Expedia
-- Added Languages: German & Greek
+- New Channel: Hotel Tonight
+- New Channel: SleepRest
+- New Channel: The TPM Group
+- Added Ability to generate PDF for a booking
+- Added webhook for auto disconnected Airbnb Listing and OTA Channel
+- Upgrade Traveloka to latest API (Can support multiple rate plans)
 
 #### Coming Soon
 - View Roadmap: https://feedback.channex.io/roadmap
