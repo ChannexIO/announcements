@@ -2,7 +2,7 @@
 
 #### Summary of Changes
 - New Channel: Tablet Hotels
-- Added extra field for booking export CSV
+- Added extra fields for booking export CSV
 - Added new Livefeed event "Rate Errors" to seperate price issues from other issues
 - Fixed get ARI API to require Property ID
 
