@@ -1,12 +1,10 @@
-### June Update 🚀 (Jun 2024)
+### July Update 🚀 (Jul 2024)
 
 #### Summary of Changes
-- New Channel: Hotel Tonight
-- New Channel: SleepRest
-- New Channel: The TPM Group
-- Added Ability to generate PDF for a booking
-- Added webhook for auto disconnected Airbnb Listing and OTA Channel
-- Upgrade Traveloka to latest API (Can support multiple rate plans)
+- New Channel: Tablet Hotels
+- Added extra field for booking export CSV
+- Added new Livefeed event "Rate Errors" to seperate price issues from other issues
+- Fixed get ARI API to require Property ID
 
 #### Coming Soon
 - View Roadmap: https://feedback.channex.io/roadmap
