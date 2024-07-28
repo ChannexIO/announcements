@@ -1,6 +1,7 @@
 ### July Update 🚀 (Jul 2024)
 
 #### Summary of Changes
+- New APP: Make.com Integration
 - New Channel: Tablet Hotels
 - Added extra fields for booking export CSV
 - Added new Livefeed event "Rate Errors" to seperate price issues from other issues
