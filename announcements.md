@@ -1,10 +1,10 @@
-### August Update 🚀 (Aug 2024)
+### October Update 🚀 (Oct 2024)
 
 #### Summary of Changes
-- Added logs for add, edit and remove webhooks into the property logs
-- New Channel: Sissae Living
-- New Channel: B2B Global
-- Support Availability updates to OTA till 2am the same day
+- Added a Timeline feature in edit bookings, so you can see history of the booking
+- Added "Show Diff" into edit booking so oyu can see changes between booking revisions
+- Force Remove Property UI and API, now you can delete a proeprty even if it has channels active
+- Force update room type, can reduce occupancy of a per person room type even if it is mapped
 
 #### Coming Soon
 - View Roadmap: https://feedback.channex.io/roadmap
