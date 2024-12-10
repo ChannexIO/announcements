@@ -1,15 +1,16 @@
-### October Update 🚀 (Oct 2024)
+### Xmas Update 🚀 (Dec 2024)
+
+Merry Xmas!, this will be the final update we do in 2024. Exciting things are planned in 2025 Hope you all have a peaceful holoiday.
 
 #### Summary of Changes
-- Added property selector to property required pages
-- New Channel: Camping Vision
-- Added webhook for accepted and declined reservation request
-- Added a Timeline feature in edit bookings, so you can see history of the booking
-- Added "Show Diff" into edit booking so oyu can see changes between booking revisions
-- Force Remove Property UI and API, now you can delete a proeprty even if it has channels active
-- Force update room type, can reduce occupancy of a per person room type even if it is mapped
+- New Connection: Pricelabs
+- Added API for Airbnb Checkout Tasks
+- Added a webhook notification for non acked booking event
+- Auto mapping for per person rates
 
 #### Coming Soon
+- Hopper Homes
+- 2 Way Booking Sync (CRS)
 - View Roadmap: https://feedback.channex.io/roadmap
 
 [Link to Changelog](https://docs.channex.io/changelog)
