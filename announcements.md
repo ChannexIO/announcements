@@ -1,6 +1,7 @@
 ### Feb Update 🚀 (Feb 2025)
 
 #### Summary of Features
+- Added Max Advance feature to property settings
 - Improve logs for remove Rate Plan
 - Improve logs for remove Room Type
 - Add Deactivation reason and Logs
