@@ -6,7 +6,6 @@
 - Improve logs for remove Room Type
 - Add Deactivation reason and Logs
 - Improved logic for past date ranges in Availability or Restriction API upates
-- Added Ctoutvert channel
 - Updated options for Cancellation policy at Airbnb Rate Plans
 - Fix problem with Airbnb listings search flickering
 - Add filters and pagination to user api keys
