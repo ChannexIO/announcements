@@ -1,7 +1,7 @@
-### April Update 🚀 (Apr 2025)
+### May Update 🚀 (May 2025)
 
 #### Summary of Features
-- Improved Apaleo Import Tool to pull new rooms or rates
+- Improved Apaleo Connection to pull new rooms or rates
 - Improved Hotel Network mapping for extra adult and children settings
 - Booking CRS *Beta (Ability to add and modify bookings)
 
