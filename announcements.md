@@ -1,6 +1,6 @@
 ### July Update 🚀 (July 2025)
 
-Link to easily sign up with Hotelbeds with exclusive benefits: 
+Link to easily sign up with Hotelbeds with exclusive benefits: https://joinus.hotelbeds.com/channex/
 
 #### Summary of Features
 - Added "Inclusive without excluded taxes and fees" new tax mode for Apaleo for proprties with City Taxes
