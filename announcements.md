@@ -1,15 +1,20 @@
-### July Update 🚀 (July 2025)
+### August Update 🚀 (Aug 2025)
 
-Link to easily sign up with Hotelbeds with exclusive benefits: https://joinus.hotelbeds.com/channex/
+New Blog Post: [New Feature: Airbnb LOS Pricing Now Supported](https://channex.io/blog/airbnb-los-pricing-channex)
+
+New Blog Post: [How to Offer a Non-Refundable Discount on Airbnb with Channex
+](https://channex.io/blog/non-refundable-discount-airbnb-channex)
 
 #### Summary of Features
-- Added "Inclusive without excluded taxes and fees" new tax mode for Apaleo for proprties with City Taxes
-- Added Stripe Payment
-- Added Stripe Tokenisation
-- Added VHP PMS (Indonesia)
+- Added LOS Pricing for Airbnb (Beta) https://help.channex.io/en/articles/12052387-enable-los-with-airbnb
+- Better channel logs view on mobile
+- Added Report about Guest misconduct for Booking.com bookings
+- Added report about changes to check-out date and / or price for Booking.com bookings
+- Improved staging server with booking.com test proeprties selection
   
-
 ## Bugfixes
+
+- Fixed back navigation from Message Thread iframe view
 
 #### Coming Soon
 - View Roadmap: https://feedback.channex.io/roadmap
