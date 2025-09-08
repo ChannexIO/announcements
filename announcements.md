@@ -1,6 +1,6 @@
 ### August Update 🚀 (Aug 2025)
 
-New Blog Post: [How to manage Checkout tasks](https://channex.io/blog/airbnb-checkout-instructions-channex)
+New Blog Post: [How to manage Checkout tasks in Airbnb](https://channex.io/blog/airbnb-checkout-instructions-channex)
 
 
 
