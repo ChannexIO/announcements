@@ -1,9 +1,8 @@
 ### August Update 🚀 (Aug 2025)
 
-New Blog Post: [New Feature: Airbnb LOS Pricing Now Supported](https://channex.io/blog/airbnb-los-pricing-channex)
+New Blog Post: [How to manage Checkout tasks](https://channex.io/blog/airbnb-checkout-instructions-channex)
 
-New Blog Post: [How to Offer a Non-Refundable Discount on Airbnb with Channex
-](https://channex.io/blog/non-refundable-discount-airbnb-channex)
+
 
 #### Summary of Features
 - Added LOS Pricing for Airbnb (Beta) https://help.channex.io/en/articles/12052387-enable-los-with-airbnb
