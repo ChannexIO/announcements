@@ -1,17 +1,15 @@
-### October Update 🚀 (Oct 2025)
+### November Update 🚀 (Nov 2025)
 
-New Blog Post: [Unlocking the Power of Airbnb Review Tags for Your Property](https://channex.io/blog/airbnb-review-tags-channex))
-
+New Blog Post: [New Feature: Sandwich Nights Inventory Status](https://channex.io/blog/sandwich-nights-unbookable-dates)<br />
+New Blog Post: [New Feature: Airbnb Performance Dashbaord](https://channex.io/blog/airbnb-listing-quality-dashboard)
 
 
 #### Summary of Features
-- New Channel: Edreams
-- Billing Usage Statistics History
-
-  
-## Bugfixes
-
-- Small Fixes
+- New Feature: Sandwich Nights (Inventory page status to show unbookable dates because of min stay)
+- New Feature: Airbnb Performance Dashboard
+- New OTA: Levart
+- New OTA: Gopaddi
+- New OTA: WeSpeak
 
 #### Coming Soon
 - View Roadmap: https://feedback.channex.io/roadmap
