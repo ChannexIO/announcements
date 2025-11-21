@@ -1,6 +1,7 @@
 ### November Update 🚀 (Nov 2025)
 
-New Blog Post: [New Feature: Sandwich Nights Inventory Status](https://channex.io/blog/sandwich-nights-unbookable-dates)<br />
+New Blog Post: [New Feature: Sandwich Nights Inventory Status](https://channex.io/blog/sandwich-nights-unbookable-dates)
+
 New Blog Post: [New Feature: Airbnb Performance Dashbaord](https://channex.io/blog/airbnb-listing-quality-dashboard)
 
 
