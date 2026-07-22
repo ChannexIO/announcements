@@ -3,6 +3,7 @@
 #### Summary of Features
 - New OTA: Yatra
 - New OTA: Webbeds
+- New OTA: Glamping Hub
 - New OTA: roompanda.com
 - New OTA: RevChill
 
