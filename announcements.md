@@ -1,9 +1,13 @@
-### August Update 🚀 (Aug 2026)
+### September Update 🚀 (Sep 2026)
 
 #### Summary of Features
-- New OTA: AscendTravel
-- Resend Booking will now also trigger a webhook
-- Added new Live Feed events and webhooks channel_removal_warning, property_removal_warning
+- New OTA: GlampingHub (Camping)
+- New OTA: OutReserve (Camping)
+- New OTA: HLC+
+- New OTA: GrevonAI
+- New OTA: Stayinto
+- Support Withheld taxes on Airbnb
+- Added IP whitelist ability to API keys (RECOMMENDED)
 
 #### Coming Soon
 - View Roadmap: https://feedback.channex.io/roadmap
