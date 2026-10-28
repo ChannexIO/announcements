@@ -1,13 +1,11 @@
-### September Update 🚀 (Sep 2026)
+### October Update 🚀 (Oct 2026)
 
 #### Summary of Features
-- New OTA: GlampingHub (Camping)
-- New OTA: OutReserve (Camping)
-- New OTA: HLC+
-- New OTA: GrevonAI
-- New OTA: Stayinto
-- Support Withheld taxes on Airbnb
-- Added IP whitelist ability to API keys (RECOMMENDED)
+- New OTA: Bookd
+- New OTA: Metsa
+- New OTA: NomadStudents
+- New OTA: D-Max
+- New OTA: Offer2Stay
 
 #### Coming Soon
 - View Roadmap: https://feedback.channex.io/roadmap
